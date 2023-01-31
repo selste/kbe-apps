@@ -1,6 +1,7 @@
 # kbe-apps
 
 Blog post: [ArgoCD Overview](https://kubebyexample.com/learning-paths/argo-cd/argo-cd-overview)
+
 ## Working with helm - Supplement
 
 Changes wrt 'Accessing ArgoCD' in the 'ArgoCD Getting Started' section
